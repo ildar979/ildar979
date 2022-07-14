@@ -1,15 +1,17 @@
 <h1 align="center">Привет 👋 меня зовут Ильдар</h1>
 <h3 align="center">Занимаюсь frontend разработкой более года. Есть опыт работы и в backend</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ildar979/Travel https://github.com/ildar979/Apteka](https://github.com/ildar979/Travel https://github.com/ildar979/Apteka)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/ildar979/Travel https://github.com/ildar979/Apteka](https://github.com/ildar979/Travel https://github.com/ildar979/Apteka)
 
 - 📫 How to reach me **@ildar979 ildarvaliev39@gmail.com**
 
-- 📄 Know about my experiences [https://kazan.hh.ru/resume/4243fa36ff0aedc9c30039ed1f653870473730](https://kazan.hh.ru/resume/4243fa36ff0aedc9c30039ed1f653870473730)
+- 📄 Know about my experiences [https://kazan.hh.ru/resume/4243fa36ff0aedc9c30039ed1f653870473730](https://kazan.hh.ru/resume/4243fa36ff0aedc9c30039ed1f653870473730) -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Мои Контакты:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ildar-valiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ildar-valiev" height="30" width="40" /></a>
+<a href="https://t.me/ildar979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@ildar979" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ildarvaliev39@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
